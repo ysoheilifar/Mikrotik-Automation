@@ -8,10 +8,10 @@ from netmiko.ssh_exception import AuthenticationException
 username = input('Enter your SSH username: ')
 password = getpass()
 
-with open('D:/Netmiko_Itration_script3/commands_all_devices.txt') as f:
+with open('commands_all_devices.txt') as f:
 	commands_list = f.read().splitlines()
 
-with open('D:/Netmiko_Itration_script3/devices_list.txt') as f:
+with open('devices_list.txt') as f:
 	devices_list = f.read().splitlines()
 
 for devices in devices_list:
