@@ -18,4 +18,4 @@ py mikrotik-automation.py
 > Python Version : 3.10
 
 
-<p align=center>Don’t let yesterday take up too much of today</p>
+<p align=center>:fire: Don’t let yesterday take up too much of today :fire:</p>
