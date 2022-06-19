@@ -7,7 +7,7 @@ pip install netmiko
 
 pip install paramiko
 ```
-3.  Put the IPs of mikrotik devices in order and line by line in the `devices_list.txt` file
+3.  Put the IP address of mikrotik devices in order and line by line in the `devices_list.txt` file
 4.  Put all the commands of your mikrotik router device in order and line by line in the `commands_all_devices` file
 5.  Run `mikrotik-automation.py`
 ```python
